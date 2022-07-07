@@ -1,5 +1,5 @@
 {
-    "name": "osiemsiedem/intervention-image-vips-driver",
+    "name": "exclusivedev/intervention-image-vips-driver",
     "description": "VIPS driver for Intervention Image.",
     "keywords": ["intervention", "vips", "libvips", "image", "processing"],
     "license": "MIT",
