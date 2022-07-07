@@ -12,7 +12,7 @@ This is a work in progress.
 ## Installation
 
 ```
-composer require osiemsiedem/intervention-image-vips-driver
+composer require exclusivedev/intervention-image-vips-driver
 ```
 
 ## Configuration
